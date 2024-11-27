@@ -1,0 +1,8 @@
+2024-11-27 12:55:38 INFO  CommonFunctions:31 - Orangehrm test
+2024-11-27 12:55:38 INFO  CommonFunctions:32 - Loading property file
+2024-11-27 12:55:38 INFO  CommonFunctions:39 - Launching Chrome browser
+2024-11-27 12:55:39 INFO  CommonFunctions:47 - Navigate to Orangehrm application
+2024-11-27 12:55:42 INFO  Dashboard:16 - Login to the application
+2024-11-27 12:55:45 INFO  Dashboard:26 - Verifying whether the text is displayed or not
+2024-11-27 12:55:47 INFO  Admin:43 - Navigating to users page
+2024-11-27 12:55:57 INFO  CommonFunctions:53 - Execution completed
