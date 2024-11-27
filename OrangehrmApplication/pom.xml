@@ -54,6 +54,26 @@
     <version>2.3.2</version>
 </dependency>
 
+    <!-- Allure Framework for generating reports -->
+ <dependency>
+     <groupId>io.qameta.allure</groupId>
+     <artifactId>allure-java-commons</artifactId>
+     <version>2.22.0</version>  <!-- use the latest version -->
+ </dependency>
+ 
+ <dependency>
+        <groupId>io.qameta.allure</groupId>
+        <artifactId>allure-testng</artifactId>
+        <version>2.22.0</version> <!-- Ensure latest version -->
+    </dependency>
+    
+    <!-- https://mvnrepository.com/artifact/org.apache.maven.plugin-tools/maven-plugin-annotations -->
+<dependency>
+    <groupId>org.apache.maven.plugin-tools</groupId>
+    <artifactId>maven-plugin-annotations</artifactId>
+    <version>3.9.0</version>
+    <scope>provided</scope>
+</dependency>
 
   </dependencies>
   
