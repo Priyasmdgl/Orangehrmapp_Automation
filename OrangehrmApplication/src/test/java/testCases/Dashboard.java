@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import commonFunctions.CommonFunctions;
 import pageObjects.DashboardPage;
 import pageObjects.LoginPage;
-
+@Listeners(AllureTestNg.class)
 public class Dashboard extends CommonFunctions{
 	
 	public static Logger logger = Logger.getLogger(Dashboard.class);
