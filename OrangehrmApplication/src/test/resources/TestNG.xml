@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "OrangeHRM application">
+
+ <test name = "Dashboard page">
+<classes>
+<class name = "testCases.Dashboard"></class>
+</classes>
+</test> 
+
+<test name = "Admin page">
+<classes>
+<class name = "testCases.Admin"></class>
+</classes>
+</test>
+
+</suite>
