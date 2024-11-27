@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import commonFunctions.CommonFunctions;
 import pageObjects.AdminPage;
-
+@Listeners(AllureTestNg.class)
 public class Admin extends CommonFunctions {
 	public static Logger logger = Logger.getLogger(Admin.class);
 	public void userspage() {
